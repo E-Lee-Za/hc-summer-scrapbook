@@ -180,6 +180,7 @@ body {
   overflow: hidden;
   background-color: var(--colors-sunken);
   background-blend-mode: screen;
+  background-color: rgba(143, 143, 204, 0.5);
 }
 
 @media (min-width: 32em) {
@@ -190,10 +191,8 @@ body {
 
 .post {
   padding: 16px;
-  background-color: rgba(143, 143, 204, 0.5);
   position: relative;
   width: 100%;
-  background-blend-mode: screen;
 }
 
 .post-header {
