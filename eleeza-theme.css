@@ -189,6 +189,7 @@ body {
 .post {
   padding: 16px;
   background-color: var(--colors-elevated);
+  mix-blend-mode: color-dodge;
   position: relative;
   width: 100%;
 }
