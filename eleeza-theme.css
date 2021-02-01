@@ -179,6 +179,7 @@ body {
   border-radius: 16px;
   overflow: hidden;
   background-color: var(--colors-sunken);
+  background-blend-mode: screen;
 }
 
 @media (min-width: 32em) {
