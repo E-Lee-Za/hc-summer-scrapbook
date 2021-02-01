@@ -193,6 +193,7 @@ body {
   background-color: rgba(143, 143, 204, 0.5);
   position: relative;
   width: 100%;
+  background-blend-mode: screen;
 }
 
 .post-header {
