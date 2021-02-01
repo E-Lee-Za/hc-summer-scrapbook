@@ -190,7 +190,7 @@ body {
 
 .post {
   padding: 16px;
-  background-color: var(--colors-elevated);
+  background-color: rgba(143, 143, 204, 0.5);
   position: relative;
   width: 100%;
 }
